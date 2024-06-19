@@ -68,7 +68,7 @@ header nav button:hover {
 }
 
 .section1 {
-    background: url("images/section1Image.jpg") no-repeat;
+    background: url("section1Image.jpg") no-repeat;
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -98,7 +98,7 @@ header nav button:hover {
 }
 
 .section2 {
-    background: url("images/background.PNG");
+    background: url("background.PNG");
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -240,7 +240,7 @@ small {
     justify-content: center;
     align-items: center;
     padding: 5%;
-    background: url("images/section1Image.jpg");
+    background: url("section1Image.jpg");
     background-size: cover;
 }
 
@@ -356,7 +356,7 @@ footer {
 .signup_section1 .background_image{
     height: 100%;
     width: 50%;
-    background: url("images/loginImage.avif") no-repeat;
+    background: url("loginImage.avif") no-repeat;
     background-size: cover;
 }
 
